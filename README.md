@@ -6,4 +6,4 @@ It was made with css and html.
 
 I also add google+ icon.
 
-[click here](https://github.com/ShitalSB/GmailHomepage)
+[click here](https://shitalsb.github.io/GmailHomepage/)
